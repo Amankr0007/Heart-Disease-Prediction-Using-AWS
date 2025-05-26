@@ -141,7 +141,7 @@ A detailed breakdown of the hybrid cloud-based heart disease prediction pipeline
 
 - **Akshay Kumar** *(RA2412033010021)*  
 - **Ritesh Kumar Verma** *(RA2412033010024)*  
-- **Akshay Ladha** *(RA2412033010035)*  
+- **Aman Kumar** *(RA2412033010013)*  
 
 > Under the guidance of **Dr. S. Prabakeran**,  
 > SRM Institute of Science and Technology
